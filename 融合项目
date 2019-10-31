@@ -1,0 +1,29 @@
+@click.prevent//.prevent阻止默认超链接操作
+css中的bacgground图片地址添加路径并不好用，原因是css会通多webpack进行打包，
+要求css代码必须写在vue文件
+的<style>标签中
+ajax刷新一部分 ，npm i vue-router安装此插件
+Network功能可看到页面发送的所有请求信息,data中包含了请求参数pageNum: 1
+URL: http://www.codeboy.com/mfresh/data/news_select.php
+发送网络请求使用axios  
+此模块需npm install --save axios vue-axios
+esline默认不能打印console.log,要在package.json中  "rules": {
+      "no-console":"off"
+    },
+// 跨域操作  "content-type": "application/x-www-form-urlencoded"
+函数{
+     //监听挂载完毕的时间点触发
+    mounted(){
+        // 新建一个过滤器，把时间截过滤成标准日期格式
+    filters:{
+}
+路由跳转带参数方式：例如有nid=12参数
+ css{
+     /* name=fade 对此transition-group编写过渡效果 */
+  .fade-enter-active,/*将要显示*/
+  .fade-leave-active{/*将要消失*/
+  .fade-enter,/*已经显示*/
+  .fade-leave-to{/*已经消失*/
+ }
+
+
